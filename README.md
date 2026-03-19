@@ -70,4 +70,5 @@ This project helped in developing a better understanding of digital tools and pl
 
 Project by - Sunny Kumar
 Registration Number - 25BCE10961
+
 Repository Link : https://github.com/streetscape-inc/portfolio-digital-literacy/tree/main
